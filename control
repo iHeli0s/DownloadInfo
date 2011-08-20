@@ -1,0 +1,9 @@
+Package: com.fr0zensun.downloadinfo
+Name: Download Info
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Heli0s
+Author: Heli0s
+Section: Tweaks
